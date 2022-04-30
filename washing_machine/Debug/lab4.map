@@ -1,0 +1,1012 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                              ./main.o (GPIOPinTypeUART)
+/home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o) (IntRegister)
+/home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./main.o (SysCtlPeripheralEnable)
+/home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./main.o (UARTConfigSetExpClk)
+/home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                              /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./main.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x000000000000026c     0x1cb8
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000000000026c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x000000000000026c       0x40 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000000002ac       0x74 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000000000002ac                _mainCRTStartup
+                0x00000000000002ac                _start
+ .text          0x0000000000000320        0x0 ./main.o
+ .text          0x0000000000000320        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000320        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.main     0x0000000000000320       0xe0 ./main.o
+                0x0000000000000320                main
+ .text.ResetISR
+                0x0000000000000400       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000400                ResetISR
+ .text.NmiSR    0x000000000000046c        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x0000000000000472        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000000478        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x000000000000047e        0x2 
+ .text.exit     0x0000000000000480       0x20 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                0x0000000000000480                exit
+ .text.__libc_init_array
+                0x00000000000004a0       0x48 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                0x00000000000004a0                __libc_init_array
+ .text.memset   0x00000000000004e8       0x94 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                0x00000000000004e8                memset
+ .text.startup.register_fini
+                0x000000000000057c       0x14 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000590       0xe8 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000000590                __call_exitprocs
+ .text.atexit   0x0000000000000678        0xc /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                0x0000000000000678                atexit
+ .text.__libc_fini_array
+                0x0000000000000684       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                0x0000000000000684                __libc_fini_array
+ .text.__retarget_lock_init
+                0x00000000000006b8        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006b8                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x00000000000006bc        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006bc                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x00000000000006c0        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006c0                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x00000000000006c4        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006c4                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x00000000000006c8        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006c8                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x00000000000006cc        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006cc                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x00000000000006d0        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006d0                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000000006d4        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006d4                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x00000000000006d8        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006d8                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x00000000000006dc        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000000006dc                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00000000000006e0       0xc0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                0x00000000000006e0                __register_exitproc
+ .text._GPIOIntNumberGet
+                0x00000000000007a0       0x48 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x00000000000007e8       0x2e /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000007e8                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x0000000000000816       0x24 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000816                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x000000000000083a       0x5a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000083a                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x0000000000000894       0x4a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000894                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x00000000000008de      0x130 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000008de                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x0000000000000a0e       0xc4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000a0e                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x0000000000000ad2        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ad2                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x0000000000000ade        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ade                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x0000000000000aec        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000aec                GPIOIntStatus
+ .text.GPIOIntClear
+                0x0000000000000afa        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000afa                GPIOIntClear
+ .text.GPIOIntRegister
+                0x0000000000000b00       0x1a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b00                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x0000000000000b1a       0x16 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b1a                GPIOIntUnregister
+ .text.GPIOIntRegisterPin
+                0x0000000000000b30       0x1e /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b30                GPIOIntRegisterPin
+ .text.GPIOIntUnregisterPin
+                0x0000000000000b4e       0x1a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b4e                GPIOIntUnregisterPin
+ .text.GPIOPinRead
+                0x0000000000000b68        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b68                GPIOPinRead
+ .text.GPIOPinWrite
+                0x0000000000000b6e        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b6e                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x0000000000000b74       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b74                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x0000000000000b90       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000b90                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x0000000000000bac       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000bac                GPIOPinTypeComparator
+ .text.GPIOPinTypeComparatorOutput
+                0x0000000000000bc8       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000bc8                GPIOPinTypeComparatorOutput
+ .text.GPIOPinTypeDIVSCLK
+                0x0000000000000be4       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000be4                GPIOPinTypeDIVSCLK
+ .text.GPIOPinTypeEPI
+                0x0000000000000c00       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c00                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x0000000000000c1c       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c1c                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x0000000000000c38       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c38                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x0000000000000c54       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c54                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x0000000000000c70       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c70                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x0000000000000c8c       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000c8c                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x0000000000000ca8       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ca8                GPIOPinTypeHibernateRTCCLK
+ .text.GPIOPinTypeI2C
+                0x0000000000000cc4       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000cc4                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x0000000000000ce0       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ce0                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x0000000000000cfc       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000cfc                GPIOPinTypeLCD
+ .text.GPIOPinTypeOneWire
+                0x0000000000000d18       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000d18                GPIOPinTypeOneWire
+ .text.GPIOPinTypePWM
+                0x0000000000000d34       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000d34                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x0000000000000d50       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000d50                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x0000000000000d6c       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000d6c                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x0000000000000d88       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000d88                GPIOPinTypeTimer
+ .text.GPIOPinTypeTrace
+                0x0000000000000da4       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000da4                GPIOPinTypeTrace
+ .text.GPIOPinTypeUART
+                0x0000000000000dc0       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000dc0                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x0000000000000ddc       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ddc                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x0000000000000df8       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000df8                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x0000000000000e14       0x1e /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000e14                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x0000000000000e32       0x1e /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000e32                GPIOPinTypeWakeLow
+ .text.GPIOPinWakeStatus
+                0x0000000000000e50        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000e50                GPIOPinWakeStatus
+ *fill*         0x0000000000000e56        0x2 
+ .text.GPIOPinConfigure
+                0x0000000000000e58       0x4c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000e58                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x0000000000000ea4        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ea4                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x0000000000000eb0        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000eb0                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x0000000000000ebe        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000ebe                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x0000000000000eca        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000000eca                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x0000000000000ed8        0x2 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000000eda        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000eda                IntMasterEnable
+ .text.IntMasterDisable
+                0x0000000000000ee8        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000ee8                IntMasterDisable
+ *fill*         0x0000000000000ef6        0x2 
+ .text.IntRegister
+                0x0000000000000ef8       0x34 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000ef8                IntRegister
+ .text.IntUnregister
+                0x0000000000000f2c       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000f2c                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x0000000000000f40       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000f40                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x0000000000000f5c       0x24 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000f5c                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x0000000000000f80       0x2c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000f80                IntPrioritySet
+ .text.IntPriorityGet
+                0x0000000000000fac       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000fac                IntPriorityGet
+ .text.IntEnable
+                0x0000000000000fc8       0x60 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000000fc8                IntEnable
+ .text.IntDisable
+                0x0000000000001028       0x60 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000001028                IntDisable
+ .text.IntIsEnabled
+                0x0000000000001088       0x64 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000001088                IntIsEnabled
+ .text.IntPendSet
+                0x00000000000010ec       0x50 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000010ec                IntPendSet
+ .text.IntPendClear
+                0x000000000000113c       0x40 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000000000000113c                IntPendClear
+ .text.IntPriorityMaskSet
+                0x000000000000117c        0x4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000000000000117c                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x0000000000001180        0x4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000001180                IntPriorityMaskGet
+ .text.IntTrigger
+                0x0000000000001184        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000001184                IntTrigger
+ .text._SysCtlMemTimingGet
+                0x0000000000001190       0x24 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00000000000011b4       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000011b4                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x00000000000011c4       0x3c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000011c4                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x0000000000001200       0x38 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001200                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x0000000000001238       0x26 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001238                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x000000000000125e       0x26 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000125e                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x0000000000001284       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001284                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x00000000000012a6       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000012a6                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x00000000000012c8       0x3a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000012c8                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x0000000000001302       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001302                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x0000000000001324       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001324                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000001346       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001346                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000001368       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001368                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x000000000000138a       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000138a                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000000013ac       0x22 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000013ac                SysCtlPeripheralDeepSleepDisable
+ *fill*         0x00000000000013ce        0x2 
+ .text.SysCtlPeripheralClockGating
+                0x00000000000013d0       0x48 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000013d0                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x0000000000001418       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001418                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x000000000000142c       0x12 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000142c                SysCtlIntUnregister
+ *fill*         0x000000000000143e        0x2 
+ .text.SysCtlIntEnable
+                0x0000000000001440       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001440                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x0000000000001450       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001450                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x0000000000001460        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001460                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x000000000000146c       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000146c                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x0000000000001480        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001480                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x000000000000148c        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000148c                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x0000000000001498        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001498                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x00000000000014a4        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014a4                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x00000000000014b0        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014b0                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x00000000000014bc        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014bc                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x00000000000014c8       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014c8                SysCtlReset
+ .text.SysCtlSleep
+                0x00000000000014d8        0x4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014d8                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x00000000000014dc       0x20 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014dc                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x00000000000014fc        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000014fc                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x0000000000001508       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001508                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x0000000000001518        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001518                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x0000000000001520        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001520                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x000000000000152c       0x48 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000152c                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x0000000000001574        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001574                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x0000000000001580        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001580                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x000000000000158c      0x248 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000158c                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x00000000000017d4      0x11c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000017d4                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x00000000000018f0      0x12c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000018f0                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000001a1c        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001a1c                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000001a28       0x60 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001a28                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x0000000000001a88       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001a88                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x0000000000001a9c       0x18 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001a9c                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000001ab4       0x18 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001ab4                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000001acc       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001acc                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x0000000000001ae8       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001ae8                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x0000000000001af8       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001af8                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x0000000000001b08        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001b08                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x0000000000001b14        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001b14                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x0000000000001b20       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001b20                SysCtlVoltageEventClear
+ .text.SysCtlVCOGet
+                0x0000000000001b30       0x78 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001b30                SysCtlVCOGet
+ .text.SysCtlNMIStatus
+                0x0000000000001ba8        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001ba8                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x0000000000001bb4       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001bb4                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x0000000000001bc4       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001bc4                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x0000000000001bd4        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001bd4                SysCtlAltClkConfig
+ .text._UARTIntNumberGet
+                0x0000000000001be0       0x44 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000001c24        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c24                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x0000000000001c30        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c30                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x0000000000001c38        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c38                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x0000000000001c3e       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c3e                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x0000000000001c4e       0x28 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c4e                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x0000000000001c76       0x16 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c76                UARTEnable
+ .text.UARTDisable
+                0x0000000000001c8c       0x1c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001c8c                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x0000000000001ca8       0x48 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001ca8                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x0000000000001cf0        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001cf0                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x0000000000001cfa        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001cfa                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x0000000000001d04       0x12 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d04                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x0000000000001d16        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d16                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x0000000000001d20       0x16 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d20                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x0000000000001d36        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d36                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x0000000000001d40        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d40                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x0000000000001d4c        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d4c                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x0000000000001d5a        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d5a                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x0000000000001d62        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d62                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x0000000000001d6c        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d6c                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x0000000000001d78        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d78                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x0000000000001d80        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d80                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x0000000000001d8c        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d8c                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x0000000000001d94        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001d94                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x0000000000001da0        0xc /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001da0                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x0000000000001dac        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dac                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x0000000000001dba        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dba                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x0000000000001dc4       0x10 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dc4                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x0000000000001dd4        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dd4                UARTCharPut
+ .text.UARTBreakCtl
+                0x0000000000001dde       0x16 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dde                UARTBreakCtl
+ .text.UARTBusy
+                0x0000000000001df4        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001df4                UARTBusy
+ .text.UARTIntRegister
+                0x0000000000001dfc       0x1a /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001dfc                UARTIntRegister
+ .text.UARTIntUnregister
+                0x0000000000001e16       0x16 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e16                UARTIntUnregister
+ .text.UARTIntEnable
+                0x0000000000001e2c        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e2c                UARTIntEnable
+ .text.UARTIntDisable
+                0x0000000000001e34        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e34                UARTIntDisable
+ .text.UARTIntStatus
+                0x0000000000001e3e        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e3e                UARTIntStatus
+ .text.UARTIntClear
+                0x0000000000001e48        0x4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e48                UARTIntClear
+ .text.UARTDMAEnable
+                0x0000000000001e4c        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e4c                UARTDMAEnable
+ .text.UARTDMADisable
+                0x0000000000001e54        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e54                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x0000000000001e5e        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e5e                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x0000000000001e66        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e66                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x0000000000001e6c        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e6c                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x0000000000001e72        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e72                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x0000000000001e78        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e78                UART9BitEnable
+ .text.UART9BitDisable
+                0x0000000000001e86        0xe /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e86                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x0000000000001e94        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e94                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x0000000000001e9e       0x2c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001e9e                UART9BitAddrSend
+ .text.UARTLoopbackEnable
+                0x0000000000001eca        0xa /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001eca                UARTLoopbackEnable
+ .text.CPUcpsid
+                0x0000000000001ed4        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001ed4                CPUcpsid
+ .text.CPUprimask
+                0x0000000000001edc        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001edc                CPUprimask
+ .text.CPUcpsie
+                0x0000000000001ee2        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001ee2                CPUcpsie
+ .text.CPUwfi   0x0000000000001eea        0x4 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001eea                CPUwfi
+ .text.CPUbasepriSet
+                0x0000000000001eee        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001eee                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x0000000000001ef4        0x6 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000001ef4                CPUbasepriGet
+ *fill*         0x0000000000001efa        0x2 
+ .text._exit    0x0000000000001efc        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                0x0000000000001efc                _exit
+                0x0000000000001f00                . = ALIGN (0x4)
+ *(.ctors)
+                0x0000000000001f00                . = ALIGN (0x4)
+ *(.dtors)
+                0x0000000000001f00                . = ALIGN (0x4)
+                0x0000000000001f00                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x0000000000001f00        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x0000000000001f04        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000001f08                __init_array_end = .
+ *(.init)
+ .init          0x0000000000001f08        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000001f08                _init
+ .init          0x0000000000001f0c        0x8 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x0000000000001f14        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000001f14                _fini
+ .fini_array    0x0000000000001f18        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x0000000000001f1c        0x8 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.glue_7         0x0000000000001f24        0x0
+ .glue_7        0x0000000000001f24        0x0 linker stubs
+
+.glue_7t        0x0000000000001f24        0x0
+ .glue_7t       0x0000000000001f24        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001f24        0x0
+ .vfp11_veneer  0x0000000000001f24        0x0 linker stubs
+
+.v4_bx          0x0000000000001f24        0x0
+ .v4_bx         0x0000000000001f24        0x0 linker stubs
+
+.iplt           0x0000000000001f24        0x0
+ .iplt          0x0000000000001f24        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x0000000000001f24      0x60c
+ *(.rodata)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x0000000000001f24        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x0000000000001f24                _global_impure_ptr
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x0000000000001f28       0xd8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x0000000000002000       0x90 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x0000000000002090       0xc0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Priority
+                0x0000000000002150       0x20 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000000000002170       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000000000002184       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x0000000000002198       0x9c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x0000000000002234       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x0000000000002248       0x14 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x000000000000225c      0x1b0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x000000000000240c        0x8 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x0000000000002414       0x30 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x0000000000002444       0x6c /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppui32UARTIntMap
+                0x00000000000024b0       0x40 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x00000000000024f0       0x40 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+
+.eh_frame       0x0000000000002530        0x4
+ .eh_frame      0x0000000000002530        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x0000000000002530        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.data           0x0000000020000000      0x434 load address 0x0000000000002534
+                0x0000000000002534                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000020000000        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000020000004        0x0 ./main.o
+ .data          0x0000000020000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000020000004        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x0000000020000004        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x0000000020000004                _impure_ptr
+ .data.impure_data
+                0x0000000020000008      0x428 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+                0x0000000020000434                . = ALIGN (0x4)
+                0x0000000020000434                __data_end__ = .
+
+.igot.plt       0x0000000020000434        0x0 load address 0x0000000000002968
+ .igot.plt      0x0000000020000434        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+vtable          0x0000000020000800      0x400 load address 0x0000000000002968
+ vtable         0x0000000020000800      0x400 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+
+.ARM.exidx      0x0000000000002d68        0x8
+                0x0000000000002d68                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000002d68        0x8 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x0000000000002d70                __exidx_end = .
+
+.ARM.extab      0x0000000000002d70        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000002d70        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+
+.rel.dyn        0x0000000000002d70        0x0
+ .rel.iplt      0x0000000000002d70        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x0000000020000c00      0x240
+                0x0000000020000c00                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020000c00        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000020000c00       0x1c /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000020000c1c        0x0 ./main.o
+ .bss           0x0000000020000c1c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000020000c1c        0x0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.pui32Stack
+                0x0000000020000c1c      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *(COMMON)
+ COMMON         0x0000000020000e1c       0x21 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000020000e1c                __lock___atexit_recursive_mutex
+                0x0000000020000e20                __lock___arc4random_mutex
+                0x0000000020000e24                __lock___env_recursive_mutex
+                0x0000000020000e28                __lock___sinit_recursive_mutex
+                0x0000000020000e2c                __lock___malloc_recursive_mutex
+                0x0000000020000e30                __lock___at_quick_exit_mutex
+                0x0000000020000e34                __lock___dd_hash_mutex
+                0x0000000020000e38                __lock___tz_mutex
+                0x0000000020000e3c                __lock___sfp_recursive_mutex
+                0x0000000020000e40                . = ALIGN (0x4)
+ *fill*         0x0000000020000e3d        0x3 
+                0x0000000020000e40                __bss_end__ = .
+
+.heap           0x0000000020000e40        0x0
+                0x0000000020000e40                __heap_start__ = .
+                0x0000000020000e40                end = __heap_start__
+                0x0000000020000e40                _end = end
+                0x0000000020000e40                __end = end
+ *(.heap)
+                0x0000000020000e40                __heap_end__ = .
+                0x0000000020000e40                __HeapLimit = __heap_end__
+
+.stack          0x0000000020000e40        0x0
+                0x0000000020000e40                _stack = .
+                0x0000000020000e40                __stack = .
+ *(.stack)
+START GROUP
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a
+END GROUP
+START GROUP
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(lab4.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 ./main.o
+ .ARM.attributes
+                0x00000000000000af       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000000000000e8       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000011c       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000150       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000184       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001b8       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000001ec       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000220       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000254       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000288       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000002bc       0x3b /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x00000000000002f7       0x3b /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000332       0x3b /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x000000000000036d       0x3b /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x00000000000003a8       0x3b /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x00000000000003e3       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000417       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x000000000000044b       0x22 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x0000000000000000       0xee
+ .comment       0x0000000000000000       0x7e ./main.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x000000000000007e       0x70 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                                         0x71 (size before relaxing)
+ .comment       0x00000000000000ee       0x71 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x00000000000000ee       0x71 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x00000000000000ee       0x71 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x00000000000000ee       0x71 /home/ankit/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+
+.debug_info     0x0000000000000000      0x23f
+ .debug_info    0x0000000000000000       0xb2 ./main.o
+ .debug_info    0x00000000000000b2      0x18d ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_abbrev   0x0000000000000000      0x127
+ .debug_abbrev  0x0000000000000000       0x5d ./main.o
+ .debug_abbrev  0x000000000000005d       0xca ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_aranges  0x0000000000000000       0x58
+ .debug_aranges
+                0x0000000000000000       0x20 ./main.o
+ .debug_aranges
+                0x0000000000000020       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_ranges   0x0000000000000000       0x38
+ .debug_ranges  0x0000000000000000       0x10 ./main.o
+ .debug_ranges  0x0000000000000010       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_line     0x0000000000000000      0x2c3
+ .debug_line    0x0000000000000000      0x144 ./main.o
+ .debug_line    0x0000000000000144      0x17f ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_str      0x0000000000000000      0x21e
+ .debug_str     0x0000000000000000      0x163 ./main.o
+                                        0x1a5 (size before relaxing)
+ .debug_str     0x0000000000000163       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x24c (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x2ec
+ .debug_frame   0x0000000000000000       0x30 ./main.o
+ .debug_frame   0x0000000000000030       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x00000000000000ac       0x28 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000000000d4       0x2c /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000100       0x38 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000138       0x5c /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000194       0x20 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000001b4       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000001e8       0xb0 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000298       0x34 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000002cc       0x20 /home/ankit/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
